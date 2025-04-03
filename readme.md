@@ -1,5 +1,7 @@
 # MSMQ Vulnerability (CVE-2023-21554)
 
+Payload for Exploit is adapted from 3tternp at https://github.com/3tternp/CVE-2023-21554
+
 This repository contains documentation, detection techniques, and mitigation strategies for the Microsoft Message Queuing (MSMQ) Remote Code Execution vulnerability — CVE-2023-21554, also known as "QueueJumper".
 
 ## 📌 Overview
